@@ -1,0 +1,16 @@
+  
+  body{
+    background-image: repeating-linear-gradient(red, yellow 10%, green 20%);
+    color: blueviolet;
+  }
+
+  button{
+      padding: 10px;
+      width: 80;
+     border-style: double;
+     border-width: 10px;
+     color: white;
+     background-color: darkblue;
+     border-radius: 20px;
+     border-color: rgb(0, 254, 55);
+}
